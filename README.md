@@ -47,7 +47,7 @@
     
     ## Math Functions ->
     
-    ![image](./assets/pic3.png)
+    ![image](./assets/func.png)
 
 
 
