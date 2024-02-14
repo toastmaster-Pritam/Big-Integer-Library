@@ -9,11 +9,12 @@
 #include <assert.h>
 #include <math.h>
 
+
 using namespace std;
 
 class bigint
 {
-    //--------------------------By- Aryan Bansal------------------------------//
+    //--------------------------By Pritam Chakraborty------------------------------//
 
 private:
     //-----------------------------DATA MEMBERS-------------------------------//

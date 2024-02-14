@@ -22,11 +22,11 @@
 * Step 1
     * To make submissions on online judges (Codechef,Codeforces etc) ->
     
-      * Copy the code from [bigint.h](https://github.com/AryanBansal21/big_integer_Library/blob/main/bigint.h) and paste it in you solution file.
+      * Copy the code from [bigint.h](https://github.com/toastmaster-Pritam/big_integer_Library/blob/main/bigint.h) and paste it in you solution file.
       
     * To use it locally ->
     
-      * Clone this repository and place [bigint.h](https://github.com/AryanBansal21/big_integer_Library/blob/main/bigint.h) in same path as of your project.
+      * Clone this repository and place [bigint.h](https://github.com/toastmaster-Pritam/big_integer_Library/blob/main/bigint.h) in same path as of your project.
      
      * Just you wanna add these two lines at the start of your file.
      
@@ -39,7 +39,7 @@
   
     ## Declarations and Initializations ->
     
-    ![image](https://user-images.githubusercontent.com/79042363/176439221-cb34c022-149e-46bf-8504-79ce272d772d.png)
+    ![image](./assets/pic1.png)
     
     ## Arithmetic Operations ->
     
