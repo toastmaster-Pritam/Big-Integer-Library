@@ -47,7 +47,7 @@
     
     ## Math Functions ->
     
-    ![image](https://user-images.githubusercontent.com/79042363/176440438-1c042aa9-5e3c-436e-ba07-c85877cc0a3d.png)
+    ![image](./assets/pic3.png)
 
 
 
