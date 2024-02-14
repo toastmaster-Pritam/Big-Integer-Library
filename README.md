@@ -43,7 +43,7 @@
     
     ## Arithmetic Operations ->
     
-    ![image](https://user-images.githubusercontent.com/79042363/176439965-1570f369-33c5-4b21-9e9a-03324934fee4.png)
+    ![image](./assets/pic2.png)
     
     ## Math Functions ->
     
